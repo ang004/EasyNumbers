@@ -1,0 +1,32 @@
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\bin\Debug\EasyNumbers.exe.config
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\bin\Debug\EasyNumbers.exe
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\bin\Debug\EasyNumbers.pdb
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\bin\Debug\EasyNumbers.xml
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\obj\Debug\EasyNumbers.main.resources
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\obj\Debug\EasyNumbers.Resources.resources
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\obj\Debug\EasyNumbers.vbproj.GenerateResource.Cache
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\obj\Debug\EasyNumbers.exe
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\obj\Debug\EasyNumbers.xml
+C:\Users\Angel\AppData\Local\Temporary Projects\EasyNumbers\obj\Debug\EasyNumbers.pdb
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\bin\Debug\EasyNumbers.exe.config
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\bin\Debug\EasyNumbers.exe
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\bin\Debug\EasyNumbers.pdb
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\bin\Debug\EasyNumbers.xml
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.main.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.matematicas.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.Resources.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.vbproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.exe
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.xml
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.pdb
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.Combinacion.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.PEmp.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.Permutacion.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.PTeo.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.DEstandar.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.Media.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.Mediana.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.Moda.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.Pitagoras.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.Varianza.resources
+C:\Users\Angel\Desktop\EasyNumbers\EasyNumbers\obj\Debug\EasyNumbers.FTrig.resources
